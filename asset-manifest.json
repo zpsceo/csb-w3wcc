@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://zpsceo.github.io/csb-w3wcc/static/css/main.cdd15a01.chunk.css",
+    "main.js": "https://zpsceo.github.io/csb-w3wcc/static/js/main.14a09480.chunk.js",
+    "main.js.map": "https://zpsceo.github.io/csb-w3wcc/static/js/main.14a09480.chunk.js.map",
+    "runtime-main.js": "https://zpsceo.github.io/csb-w3wcc/static/js/runtime-main.cacd32ff.js",
+    "runtime-main.js.map": "https://zpsceo.github.io/csb-w3wcc/static/js/runtime-main.cacd32ff.js.map",
+    "static/css/2.1b3d2ff7.chunk.css": "https://zpsceo.github.io/csb-w3wcc/static/css/2.1b3d2ff7.chunk.css",
+    "static/js/2.82e20065.chunk.js": "https://zpsceo.github.io/csb-w3wcc/static/js/2.82e20065.chunk.js",
+    "static/js/2.82e20065.chunk.js.map": "https://zpsceo.github.io/csb-w3wcc/static/js/2.82e20065.chunk.js.map",
+    "index.html": "https://zpsceo.github.io/csb-w3wcc/index.html",
+    "precache-manifest.b71c19560b996d63a503f873d64bc19f.js": "https://zpsceo.github.io/csb-w3wcc/precache-manifest.b71c19560b996d63a503f873d64bc19f.js",
+    "service-worker.js": "https://zpsceo.github.io/csb-w3wcc/service-worker.js",
+    "static/css/2.1b3d2ff7.chunk.css.map": "https://zpsceo.github.io/csb-w3wcc/static/css/2.1b3d2ff7.chunk.css.map",
+    "static/css/main.cdd15a01.chunk.css.map": "https://zpsceo.github.io/csb-w3wcc/static/css/main.cdd15a01.chunk.css.map",
+    "static/js/2.82e20065.chunk.js.LICENSE.txt": "https://zpsceo.github.io/csb-w3wcc/static/js/2.82e20065.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cacd32ff.js",
+    "static/css/2.1b3d2ff7.chunk.css",
+    "static/js/2.82e20065.chunk.js",
+    "static/css/main.cdd15a01.chunk.css",
+    "static/js/main.14a09480.chunk.js"
+  ]
+}
